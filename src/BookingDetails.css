@@ -1,0 +1,22 @@
+.booking-details {
+  margin-top: 20px;
+}
+
+.booking-details ul {
+  list-style: none;
+  padding: 0;
+}
+
+.booking-details li {
+  margin: 5px 0;
+}
+
+.booking-form {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.booking-form input {
+  padding: 5px;
+  margin-right: 10px;
+}
